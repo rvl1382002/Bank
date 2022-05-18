@@ -1,0 +1,15 @@
+			    MY BANK
+			             -SINCE December 2019
+
+It was developed by Riddhish V. Lichade as a project in Computer Science for class XII.
+
+Python is used as the programming language and MySQL as the back-end programme.
+The code uses python libraries like tkinter, mysql.connector and datetime.
+
+We have tried our best to make the program easy to use, attractive and 
+user friendly.
+
+The safety of transactions has also been taken into consideration.
+
+We hope you loved this project and visit us again :)
+
